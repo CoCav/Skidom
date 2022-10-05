@@ -9,6 +9,7 @@ Project in French language.
 I was one of the Front-End developper for this project. 
 
 Technologies used : Node.js, Express, EJS, CSS & JS
+
 API : Postman
 
 #### To start the project :
@@ -26,6 +27,7 @@ Ce projet a été réalisé en collaboration avec blCav, maxbtchr, woobay and vi
 J'ai été l'une des développeuses Front-End pour ce projet.
 
 Technologies utilisées : Node.js, Express, EJS, CSS & JS
+
 API : Postman
 
 #### Pour démarrer le projet :
