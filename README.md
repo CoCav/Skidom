@@ -21,7 +21,7 @@ npm run dev
 
 Skidom est réseau social qui permet partager les meilleurs lieux pour faire du ski de randonnée avec ses ami.es. Il permet également de rentrer en contact avec le reste de la communauté de skieurs.
 
-Ce projet a été réalisé en collaboration avec blCav, maxbtchr, woobay and vivianadiazrivera, dans le cadre d'un cours.
+Ce projet a été réalisé en collaboration avec blCav, maxbtchr, woobay and vivianadiazrivera, dans le cadre d'un cours en Développement Web.
 
 J'ai été l'une des développeuses Front-End pour ce projet.
 
